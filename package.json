@@ -1,0 +1,17 @@
+{
+  "name": "i18n-key-translator",
+  "version": "1.0.0",
+  "description": "Tradutor de arquivos de strings do i18n",
+  "main": "src/main.js",
+  "repository": "https://github.com/mateuschaves/i18n-key-translator.git",
+  "author": "Mateus Henrique <mateushenriquechaves1@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "ibm-watson": "^5.7.1"
+  }
+}
